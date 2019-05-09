@@ -8,3 +8,8 @@
 > [GUI, Design]
 >
 
+## Project Info
+
+Description: Baseball(KBO) Simulator based on real record.
+
+You may see the details in [presentation.pptx](https://github.com/kwk2696/Baseball-Simulator/blob/master/presentation.pptx?raw=true). 
